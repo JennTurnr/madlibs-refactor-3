@@ -1,0 +1,110 @@
+body {
+	background-color: #1cab89;
+	font-family: 'Amaranth', sans-serif;
+
+
+}
+
+h1 {
+font-family: 'Amaranth', sans-serif;
+
+}
+
+#love {
+	/* font-family: 'IM Fell DW Pica', serif; */
+	font-family: 'Cedarville Cursive', cursive;
+	font-size: 35px;
+	color: #a52c30;
+	font-weight: bolder;
+}
+
+#madlibsphoto {
+	margin-left: 380px;
+}
+
+#smileyface {
+	margin-left: 520px;
+}
+
+#eiffel {
+	width: 20px;
+	height: 10px;
+	float: left;
+}
+
+ul {
+	width: 250px;
+	padding: 0px;
+	margin: 0px;
+	overflow: auto;
+	display: inline;
+}
+
+li {
+	width: 10%;
+	margin: 11.0%;
+	display: inline;
+}
+
+
+.buttons {
+	float: right;
+}
+/*
+.answers {
+	list-style: none;
+
+}
+
+.answers2 {
+	list-style: none;
+	padding-left: 400px;
+}
+
+.answers3 {
+	list-style: none;
+	padding-left: 800px;
+}
+*/
+input {
+	border: 2px solid black;
+
+}
+
+#city {
+	color: white;
+	/* text-decoration: underline; */
+}
+
+#month {
+	color: white;
+	/* text-decoration: underline; */
+}
+
+#country {
+	color: white;
+}
+
+#train {
+	color: white;
+}
+
+#museum {
+	color: white;
+}
+
+#frenchfood {
+	color: white;
+}
+
+#event {
+	color: white;
+}
+
+#view {
+	color: white;
+}
+
+#frenchlove {
+	color: white;
+}
